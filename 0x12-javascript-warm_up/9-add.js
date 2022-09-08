@@ -4,6 +4,6 @@ const b = parseInt(process.argv[3]);
 function add (a, b){
   let addition = a + b;
     return addition;
-      console.log(addition);
+      
 }
-add(a, b);
+console.log(addition);
