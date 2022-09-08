@@ -6,4 +6,4 @@ function add (a, b){
     return addition;
       console.log(addition);
 }
-add(a + b);
+add(a, b);
